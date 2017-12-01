@@ -10,3 +10,9 @@ output:
 ---
 
 # This is our analysis
+
+*italics!
+```{r}
+plot(1:10,1:10)
+```
+
