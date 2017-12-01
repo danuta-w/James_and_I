@@ -3,3 +3,4 @@ collaborating with James
 
 Hello!
 Blue whales are great!
+When collaborating - pull, commit, push!!
