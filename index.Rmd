@@ -16,3 +16,18 @@ output:
 plot(1:10,1:10)
 ```
 
+
+## NYC Flight exploration
+
+```{r NYC}
+library(tidyverse)
+library(nycflights13) # install.packages("nycflights13")
+
+flights
+
+## Jan 1 data
+flights %>% 
+  filter(month == 1,
+         day == 1)
+
+```
